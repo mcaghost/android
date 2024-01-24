@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GraphicsAnimation</string>
+    <string name="move">Move</string>
+    <string name="slide">Slide</string>
+    <string name="zoom">Zoom</string>
+    <string name="blink">Blink</string>
+    <string name="clockwise">ClockWise</string>
+    <string name="stop_animation">Stop Animation</string>
+    <string name="fade">Fade</string>
+    <string name="todo">TODO</string>
+</resources>

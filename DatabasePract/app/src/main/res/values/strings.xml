@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DatabasePract</string>
+    <string name="display">DISPLAY</string>
+    <string name="update">UPDATE</string>
+    <string name="delete">DELETE</string>
+    <string name="insert">INSERT</string>
+    <string name="name">Name</string>
+    <string name="roll_no">roll no</string>
+    <string name="namea">Name</string>
+    <string name="roll_noa">Roll No.</string>
+    <string name="namee">name</string>
+</resources>

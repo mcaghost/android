@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MultyLayoutDemo</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="lorem_ipsum">
+
+    </string>
+    <string name="tech">Tech</string>
+    <string name="php">PHP</string>
+    <string name="android">Android</string>
+    <string name="ios">IOS</string>
+    <string name="dop">DOP</string>
+    <string name="email">Email</string>
+    <string name="dob">DOB</string>
+    <string name="eg_sourabh_gmail">eg:sourabh@gmail</string>
+    <string name="eg_sourabh">eg:Sourabh</string>
+    <string name="gender">Gender</string>
+    <string name="name">Name</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="submit">Submit</string>
+</resources>
